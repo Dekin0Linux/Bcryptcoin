@@ -14,7 +14,7 @@
     <!-- Google Web Fonts -->
     <link rel="preconnect" href="https://fonts.googleapis.com">
     <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&family=Roboto:wght@500;700&display=swap" rel="stylesheet">  
+    <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500&family=Roboto:wght@500;700&display=swap" rel="stylesheet">
 
     <!-- Icon Font Stylesheet -->
     <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.10.0/css/all.min.css" rel="stylesheet">
@@ -55,7 +55,7 @@
                 <a href="#contact" class="nav-item nav-link">Contact</a>
                 <a href="./pages/sign-up.php" class="nav-item nav-link text-info">Sign Up</a>
             </div>
-            
+
         </div>
     </nav>
     <!-- Navbar End -->
@@ -95,7 +95,7 @@
                         </p>
                         <p class="mb-4">
                         </p>
-                        
+
                     </div>
                 </div>
             </div>
@@ -271,7 +271,7 @@
                     <a class="btn btn-link" href="#services">Our Services</a>
                     <a class="btn btn-link" href="termandcondition.php">Terms & Condition</a>
                 </div>
-    
+
             </div>
         </div>
         <div class="container-fluid copyright">
@@ -282,7 +282,7 @@
                     </div>
                     <div class="col-md-6 text-center text-md-end">
                         <!--/*** This template is free as long as you keep the footer author’s credit link/attribution link/backlink. If you'd like to use the template without the footer author’s credit link/attribution link/backlink, you can purchase the Credit Removal License from "https://htmlcodex.com/credit-removal". Thank you for your support. ***/-->
-                        
+
                     </div>
                 </div>
             </div>

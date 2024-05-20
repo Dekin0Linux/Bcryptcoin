@@ -22,7 +22,8 @@ if(isset($_POST['send'])){
       $name = "password";
       $btn = "reset";
       $_SESSION['em'] = $email;
-      
+    }else{
+      "<script>alert('Invalid email')</script>";
     }
   }
 }
@@ -106,14 +107,14 @@ if(isset($_POST['password'])){
                   document.write(new Date().getFullYear())
                 </script>,
                  <i class="fa fa-heart" aria-hidden="true"></i> by
-                <a href="https://www.creative-tim.com" class="font-weight-bold text-white" target="_blank">Fxbcryptodomain</a>
+                <a href="#" class="font-weight-bold text-white" target="_blank">Bcryptcoin.com</a>
                 Plantinum Version
               </div>
             </div>
             <div class="col-12 col-md-6">
               <ul class="nav nav-footer justify-content-center justify-content-lg-end">
                 <li class="nav-item">
-                  <a href="/index.html" class="nav-link text-white">Home</a>
+                  <a href="/index.html" class="nav-link text-white"></a>
                 </li>
               </ul>
             </div>
